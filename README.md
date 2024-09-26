@@ -1,5 +1,15 @@
 ## Hi there 👋
-![Power-BI](https://github.com/user-attachments/assets/c3d9e110-6e55-4414-938a-ae1703170d1e){: width="50%"}
+
+**Currently working with:**
+
+![Power-BI(p)](https://github.com/user-attachments/assets/64155eb6-899b-46ca-8609-4838c7b424ae)
+
+
+**Currently working at:**
+![Recurso 3p](https://github.com/user-attachments/assets/a3fc8de2-c6ca-423b-bd70-39d85a397adc)
+
+
+
 
 <!--
 **riglesiassanz/riglesiassanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
