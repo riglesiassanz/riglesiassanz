@@ -1,4 +1,5 @@
 ## Hi there 👋
+ I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.
 
 **Currently working with:**
 
