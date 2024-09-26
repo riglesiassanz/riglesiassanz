@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Power-BI](https://github.com/user-attachments/assets/c3d9e110-6e55-4414-938a-ae1703170d1e)
 
 <!--
 **riglesiassanz/riglesiassanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
