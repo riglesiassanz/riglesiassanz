@@ -10,11 +10,12 @@
 **Currently working at:**
 
 ![Recurso 3p](https://github.com/user-attachments/assets/a3fc8de2-c6ca-423b-bd70-39d85a397adc)
-
+![linkedin (1)](https://github.com/user-attachments/assets/8fca6676-a4fd-489e-9c66-15d702b952da)
 
 
 
 <!--
+
 **riglesiassanz/riglesiassanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
