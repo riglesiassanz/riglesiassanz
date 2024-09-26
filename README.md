@@ -14,7 +14,8 @@
 **Contact me:**
 
 [![LinkedIn](png/linkedin_3670045.png)](https://www.linkedin.com/in/robertoiglesiassanz)
-
+[![Instagram](png/instagram_4138124.png)](https://www.instagram.com/riglesiassanz)
+[![Twitter](png/social_16021270.png)](https://x.com/Robertois)
 <!--
 
 **riglesiassanz/riglesiassanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
