@@ -13,9 +13,7 @@
 
 **Contact me:**
 
-![linkedin_3670045](https://github.com/user-attachments/assets/f58c6ce4-c653-45ef-8e90-5081f5c9555e)
-![social_16021270](https://github.com/user-attachments/assets/088f460b-7dfe-4c76-8b02-1b88f0a4a6cd)
-![instagram_4138124](https://github.com/user-attachments/assets/58c53017-b4d5-4293-8786-8b8846b2fe7f)
+[![LinkedIn](png/linkedin_3670045.png)](https://www.linkedin.com/in/robertoiglesiassanz)
 
 <!--
 
