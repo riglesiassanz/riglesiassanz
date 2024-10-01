@@ -6,7 +6,7 @@
 [![Fabric_final_x53](png/Fabric_final_x53.png)](https://www.microsoft.com/es-es/microsoft-fabric)
 [![Power-BI(p)](png/Power-BI_(p).png)](https://www.microsoft.com/es-es/power-platform/products/power-bi)
 [![logo-mysql-170x115](png/logo-mysql-170x115p.png)](https://www.mysql.com/)
-[![sap_882701](png/sap_882701.png)](https://www.sap.com/spain/index.html)
+
 
 **Currently working at:**
 
