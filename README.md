@@ -1,7 +1,7 @@
 ## Hi there 👋
  I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.
 
-**Currently working with:**
+**Currently working and learning with:**
 
 [![Fabric_final_x53](png/Fabric_final_x53.png)](https://www.microsoft.com/es-es/microsoft-fabric)
 [![Power-BI(p)](png/Power-BI_(p).png)](https://www.microsoft.com/es-es/power-platform/products/power-bi)
