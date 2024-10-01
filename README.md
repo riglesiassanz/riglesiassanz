@@ -4,7 +4,7 @@
 **Currently working with:**
 
 [![Fabric_final_x53](png/Fabric_final_x53.png)](https://www.microsoft.com/es-es/microsoft-fabric)
-![Power-BI(p)](https://github.com/user-attachments/assets/64155eb6-899b-46ca-8609-4838c7b424ae)
+[![Power-BI(p)](png/Power-BI_(p).png)](https://www.microsoft.com/es-es/power-platform/products/power-bi)
 ![logo-mysql-170x115](https://github.com/user-attachments/assets/cb11fc10-86b2-4865-9e32-494dd5b787c2)
 
 
