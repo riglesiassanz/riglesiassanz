@@ -10,7 +10,7 @@
 
 **Currently working at:**
 
-[![Recurso 3p](png/Recurso 3p.png)](https://www.ahorramas.com)
+[![Recurso_3p](png/Recurso_3p.png)](https://www.ahorramas.com)
 
 **Contact me:**
 
